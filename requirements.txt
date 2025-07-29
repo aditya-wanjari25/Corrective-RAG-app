@@ -9,12 +9,12 @@ langchain-core
 langchain-text-splitters
 openai
 faiss-cpu
-PyMuPDF=
+PyMuPDF
 pypdf
 rank-bm25
 duckduckgo-search
 pydantic
-tiktoken=
+tiktoken
 requests
 numpy
 lxml
